@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\bin\Debug\Notification_Interface.exe.config
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\bin\Debug\Notification_Interface.exe
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\bin\Debug\Notification_Interface.pdb
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\obj\Debug\Notification_Interface.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\obj\Debug\Notification_Interface.Form1.resources
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\obj\Debug\Notification_Interface.Properties.Resources.resources
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\obj\Debug\Notification_Interface.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\obj\Debug\Notification_Interface.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\obj\Debug\Notification_Interface.exe
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\obj\Debug\Notification_Interface.pdb
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\obj\Debug\Notification_Interface.ChooseOperation.resources
+C:\Users\USER\source\repos\Notification_Interface\Notification_Interface\obj\Debug\Notification_Interface.ChangeNoteForm.resources
